@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = y.tarezouket@gmail.com
-	name = Yacine Tarezouket
+	email = exec zsh
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
